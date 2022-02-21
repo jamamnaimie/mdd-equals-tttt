@@ -23,4 +23,5 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 '''[1:-1]
 
-references: https://github.com/git-guides
+references = True
+references = {references: "https://github.com/git-guides"}
