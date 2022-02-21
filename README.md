@@ -1,6 +1,10 @@
-# mdd-equals-tttt
-one stone
+#! /bin/python3
 
+# ****mdd-equals-tttt****
+
+'''one stone'''
+
+LICENSE='''
 MIT No Attribution
 
 Copyright, year 782, narodnaja soljanka group
@@ -17,6 +21,6 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIG
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+'''[1:-1]
 
 references: https://github.com/git-guides
