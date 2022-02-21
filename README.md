@@ -1,6 +1,6 @@
 #! /bin/python3
 
-**mdd-equals-tttt**
+#### mdd-equals-tttt ####
 
 '''one stone'''
 
